@@ -18,7 +18,7 @@
 
 Hi, I'm An. I'm a third-year **Electronics & Telecommunications Engineering** student at IU in Ho Chi Minh City, and most days I'm somewhere between a breadboard and a model that's still training at midnight.
 
-In Semester II 2025–26 I was a **teaching assistant for Digital Logic Design**, and I've received the university's **merit scholarship three times** (Semester I and II 2024–25, Semester I 2025–26).
+In Semester II 2025–26 I was a **teaching assistant for Digital Logic Design**. I received the university's **merit-based scholarship** in Semester I and II 2024–25 and Semester I 2025–26.
 
 Aviation has always been the pull. The long-term goal is to become an **aircraft maintenance engineer**, and the road there runs through IoT and embedded systems: a modern aircraft is full of them, and keeping one healthy is more and more a sensors-and-data problem. So for now it's small boards, tight power budgets, and models that have to earn their place in memory.
 
