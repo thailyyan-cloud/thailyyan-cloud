@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Electronics & Telecommunications student</b> · International University (IU) – VNU-HCM<br>
-  Curious about how things work, and happiest when they work in the real world.
+  Vision models, drones, and a thesis that's still mostly on paper.
 </p>
 
 <p align="center">
@@ -16,14 +16,17 @@
 
 ## 🧭 About Me
 
-I'm a third-year engineering student from Vietnam. I like taking ideas off the whiteboard and into something you can hold, fly or test. I'd rather show a number I measured than make a claim I can't back up.
+Hi, I'm An. I study Electronics & Telecommunications at IU in Ho Chi Minh City, and most days I'm somewhere between a breadboard and a model that's still training at midnight.
 
-- ✈️ **Aviation is the long-term dream.** I'd like to work on aircraft maintenance and flight systems one day. For now I build and test small drones.
-- 🌏 **Travel and the outdoors.** Recent trips: Singapore and Malaysia. Most of my photos are of waterfalls, rivers, pine forests and the sea ([@lyanz_](https://www.instagram.com/lyanz_/)).
-- 🤝 **International teamwork.** I teamed up with students from EPHEC University in Belgium on a cube-solving robot.
-- 🛍️ **I've run my own small business,** importing shoes and pet products and doing the sourcing, content and marketing myself.
-- 🇫🇷 **Learning French** on the side.
-- 🎓 **Merit-based scholarship,** Semester II, 2024–2025.
+The long-term dream is aviation. One day I want to work on real aircraft; until then, I get my fix from building drones.
+
+Outside the lab I'm usually thinking about the next trip. Singapore and Malaysia were the latest. Somehow I always end up near water: a waterfall, a river, the sea, or a pine forest if I'm lucky. My camera roll is mostly landscapes, with the occasional photo proving I was actually there ([@lyanz_](https://www.instagram.com/lyanz_/)).
+
+I also started a small business importing shoes and pet products, and did the sourcing, the content and the marketing myself. It taught me that a good idea only matters if you can explain it to the person in front of you. That came in handy when I teamed up with students from EPHEC University in Belgium to build a cube-solving robot.
+
+I'm learning French, slowly. Ask me again in a year.
+
+One thing I'm stubborn about: if a result looks too good, I want to know why before I believe it. Happy to talk drones, cameras, travel, or why your model might be cheating.
 
 ---
 
