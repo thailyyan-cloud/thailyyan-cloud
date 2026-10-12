@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Electronics & Telecommunications Engineering</b> · 3rd year · International University (IU) – VNU-HCM<br>
-  IoT, embedded AI, and a thesis that's still mostly on paper.
+  Future aircraft maintenance engineer, getting there through IoT and embedded systems.
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 Hi, I'm An. I'm a third-year **Electronics & Telecommunications Engineering** student at IU in Ho Chi Minh City, and most days I'm somewhere between a breadboard and a model that's still training at midnight.
 
-Where I'm heading: IoT, embedded systems, and AI that runs on the device itself instead of in someone else's data centre. Small boards, tight power budgets, and models that have to earn their place in memory.
+Aviation has always been the pull. The long-term goal is to become an **aircraft maintenance engineer**, and the road there runs through IoT and embedded systems: a modern aircraft is full of them, and keeping one healthy is more and more a sensors-and-data problem. So for now it's small boards, tight power budgets, and models that have to earn their place in memory.
 
 Outside the lab my free time goes to two very different pets: a growing collection of cacti that ask for almost nothing, and predatory fish that ask for a lot more. When I can get away I travel, and somehow I always end up near water. Singapore and Malaysia were the latest ([@lyanz_](https://www.instagram.com/lyanz_/)).
 
 I once teamed up with students from EPHEC University in Belgium to build a cube-solving robot, and I'm learning French, slowly. Ask me again in a year.
 
-One thing I'm stubborn about: if a result looks too good, I want to know why before I believe it. Happy to talk embedded AI, cacti, fish, or why your model might be cheating.
+One thing I'm stubborn about: if a result looks too good, I want to know why before I believe it. Happy to talk aviation, embedded AI, cacti, fish, or why your model might be cheating.
 
 🌵 🐟 🌊 Photos of the cacti, the fish tank and the trips live on my site: [cacti](https://thailyyan-cloud.github.io/about/me/cacti/) · [fish](https://thailyyan-cloud.github.io/about/me/fish/) · [travel](https://thailyyan-cloud.github.io/about/me/travel/) · [now](https://thailyyan-cloud.github.io/about/me/now/)
 
