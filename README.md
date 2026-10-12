@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Thái Lý An 👋</h1>
 
 <p align="center">
-  <b>Electronics & Telecommunications student</b> · International University (IU) – VNU-HCM<br>
-  Vision models, drones, and a thesis that's still mostly on paper.
+  <b>Electronics & Telecommunications Engineering</b> · 3rd year · International University (IU) – VNU-HCM<br>
+  IoT, embedded AI, and a thesis that's still mostly on paper.
 </p>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 ## 🧭 About Me
 
-Hi, I'm An. I study Electronics & Telecommunications at IU in Ho Chi Minh City, and most days I'm somewhere between a breadboard and a model that's still training at midnight.
+Hi, I'm An. I'm a third-year **Electronics & Telecommunications Engineering** student at IU in Ho Chi Minh City, and most days I'm somewhere between a breadboard and a model that's still training at midnight.
 
-The long-term dream is aviation. One day I want to work on real aircraft; until then, I get my fix from building drones.
+Where I'm heading: IoT, embedded systems, and AI that runs on the device itself instead of in someone else's data centre. Small boards, tight power budgets, and models that have to earn their place in memory.
 
-Outside the lab I'm usually thinking about the next trip. Singapore and Malaysia were the latest. Somehow I always end up near water: a waterfall, a river, the sea, or a pine forest if I'm lucky. My camera roll is mostly landscapes, with the occasional photo proving I was actually there ([@lyanz_](https://www.instagram.com/lyanz_/)).
+Outside the lab my free time goes to two very different pets: a growing collection of cacti that ask for almost nothing, and predatory fish that ask for a lot more. When I can get away I travel, and somehow I always end up near water. Singapore and Malaysia were the latest ([@lyanz_](https://www.instagram.com/lyanz_/)).
 
-I also started a small business importing shoes and pet products, and did the sourcing, the content and the marketing myself. It taught me that a good idea only matters if you can explain it to the person in front of you. That came in handy when I teamed up with students from EPHEC University in Belgium to build a cube-solving robot.
+I once teamed up with students from EPHEC University in Belgium to build a cube-solving robot, and I'm learning French, slowly. Ask me again in a year.
 
-I'm learning French, slowly. Ask me again in a year.
+One thing I'm stubborn about: if a result looks too good, I want to know why before I believe it. Happy to talk embedded AI, cacti, fish, or why your model might be cheating.
 
-One thing I'm stubborn about: if a result looks too good, I want to know why before I believe it. Happy to talk drones, cameras, travel, or why your model might be cheating.
+🌵 🐟 🌊 Photos of the cacti, the fish tank and the trips live on my site: [cacti](https://thailyyan-cloud.github.io/about/me/cacti/) · [fish](https://thailyyan-cloud.github.io/about/me/fish/) · [travel](https://thailyyan-cloud.github.io/about/me/travel/) · [now](https://thailyyan-cloud.github.io/about/me/now/)
 
 ---
 
