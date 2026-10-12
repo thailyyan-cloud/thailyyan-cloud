@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://thailyyan-cloud.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_site-0D7A72?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
+  <a href="https://thailyyan-cloud.github.io/about/me/"><img src="https://img.shields.io/badge/Portfolio-Visit_site-0D7A72?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:thailyyan@gmail.com"><img src="https://img.shields.io/badge/Email-thailyyan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/lyanz_/"><img src="https://img.shields.io/badge/Instagram-@lyanz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @lyanz_"></a>
   <img src="https://img.shields.io/badge/IELTS-6.5-1F6FEB?style=for-the-badge" alt="IELTS 6.5">
 </p>
 
@@ -18,7 +19,7 @@
 I'm a third-year engineering student from Vietnam. I like taking ideas off the whiteboard and into something you can hold, fly or test. I'd rather show a number I measured than make a claim I can't back up.
 
 - ✈️ **Aviation is the long-term dream.** I'd like to work on aircraft maintenance and flight systems one day. For now I build and test small drones.
-- 🌏 **Travel and the outdoors.** Recent trips: Singapore and Malaysia. Most of my photos are of waterfalls, rivers, pine forests and the sea.
+- 🌏 **Travel and the outdoors.** Recent trips: Singapore and Malaysia. Most of my photos are of waterfalls, rivers, pine forests and the sea ([@lyanz_](https://www.instagram.com/lyanz_/)).
 - 🤝 **International teamwork.** I teamed up with students from EPHEC University in Belgium on a cube-solving robot.
 - 🛍️ **I've run my own small business,** importing shoes and pet products and doing the sourcing, content and marketing myself.
 - 🇫🇷 **Learning French** on the side.
@@ -33,7 +34,7 @@ I'm a third-year engineering student from Vietnam. I like taking ideas off the w
 - 🔐 **SmartGate:** my thesis, a smart gate designed to recognise faces and licence plates without needing the internet. *(in design, build planned for 2028)*
 - 🚁 **SkyTrack:** a hackathon drone mission that scans crop fields and checks before every leg that it has enough battery to get home.
 
-➡️ Details, architecture and numbers are on the **[portfolio](https://thailyyan-cloud.github.io/portfolio/)**.
+➡️ Details, architecture and numbers are on the **[portfolio](https://thailyyan-cloud.github.io/about/me/)**.
 
 ---
 
