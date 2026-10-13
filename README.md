@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://thailyyan-cloud.github.io/about/me/"><img src="https://img.shields.io/badge/Portfolio-Visit_site-0D7A72?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
+  <a href="https://lyan.is-a.dev/about/me/"><img src="https://img.shields.io/badge/Portfolio-Visit_site-0D7A72?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:thailyyan@gmail.com"><img src="https://img.shields.io/badge/Email-thailyyan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/lyanz_/"><img src="https://img.shields.io/badge/Instagram-@lyanz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @lyanz_"></a>
   <img src="https://img.shields.io/badge/IELTS-6.5-1F6FEB?style=for-the-badge" alt="IELTS 6.5">
@@ -28,7 +28,7 @@ I once teamed up with students from EPHEC University in Belgium to build a cube-
 
 One thing I'm stubborn about: if a result looks too good, I want to know why before I believe it. Happy to talk aviation, embedded AI, cacti, fish, or why your model might be cheating.
 
-🌵 🐟 🌊 Photos of the cacti, the fish tank and the trips live on my site: [cacti](https://thailyyan-cloud.github.io/about/me/cacti/) · [fish](https://thailyyan-cloud.github.io/about/me/fish/) · [travel](https://thailyyan-cloud.github.io/about/me/travel/) · [now](https://thailyyan-cloud.github.io/about/me/now/)
+🌵 🐟 🌊 Photos of the cacti, the fish tank and the trips live on my site: [cacti](https://lyan.is-a.dev/about/me/cacti/) · [fish](https://lyan.is-a.dev/about/me/fish/) · [travel](https://lyan.is-a.dev/about/me/travel/) · [now](https://lyan.is-a.dev/about/me/now/)
 
 ---
 
@@ -39,7 +39,7 @@ One thing I'm stubborn about: if a result looks too good, I want to know why bef
 - 🔐 **SmartGate:** my thesis, a smart gate designed to recognise faces and licence plates without needing the internet. *(in design, build planned for 2028)*
 - 🚁 **SkyTrack:** a hackathon drone mission that scans crop fields and checks before every leg that it has enough battery to get home.
 
-➡️ Details, architecture and numbers are on the **[portfolio](https://thailyyan-cloud.github.io/about/me/)**.
+➡️ Details, architecture and numbers are on the **[portfolio](https://lyan.is-a.dev/about/me/)**.
 
 ---
 
