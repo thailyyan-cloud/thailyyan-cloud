@@ -16,17 +16,15 @@
 
 ## 🧭 About Me
 
-Hi, I'm An. I'm a third-year **Electronics & Telecommunications Engineering** student at IU in Ho Chi Minh City, and most days I'm somewhere between a breadboard and a model that's still training at midnight.
+Hi, I'm An. I'm a third-year **Electronics & Telecommunications Engineering** student at IU in Ho Chi Minh City.
 
 In Semester II 2025–26 I was a **teaching assistant for Digital Logic Design**. I received the university's **merit-based scholarship** in Semester I and II 2024–25 and Semester I 2025–26.
 
-Aviation has always been the pull. The long-term goal is to become an **aircraft maintenance engineer**, and the road there runs through IoT and embedded systems: a modern aircraft is full of them, and keeping one healthy is more and more a sensors-and-data problem. So for now it's small boards, tight power budgets, and models that have to earn their place in memory.
+I'm heading toward IoT, embedded systems and AI that runs on the device. The long-term goal is aircraft maintenance engineering, and embedded systems are the way there.
 
-Outside the lab my free time goes to two very different pets: a growing collection of cacti that ask for almost nothing, and predatory fish that ask for a lot more. When I can get away I travel, and somehow I always end up near water. Singapore and Malaysia were the latest ([@lyanz_](https://www.instagram.com/lyanz_/)).
+Away from the desk I grow cacti, keep predatory fish and travel when I can ([@lyanz_](https://www.instagram.com/lyanz_/)). I'm learning French, one topic at a time, and I once built a cube-solving robot with students from EPHEC University in Belgium.
 
-I once teamed up with students from EPHEC University in Belgium to build a cube-solving robot, and I'm learning French, slowly. Ask me again in a year.
-
-One thing I'm stubborn about: if a result looks too good, I want to know why before I believe it. Happy to talk aviation, embedded AI, cacti, fish, or why your model might be cheating.
+I like to understand why something works before I trust it.
 
 🌵 🐟 🌊 Photos of the cacti, the fish tank and the trips live on my site: [cacti](https://lyan.is-a.dev/about/me/cacti/) · [fish](https://lyan.is-a.dev/about/me/fish/) · [travel](https://lyan.is-a.dev/about/me/travel/) · [now](https://lyan.is-a.dev/about/me/now/)
 
